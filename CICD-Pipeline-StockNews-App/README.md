@@ -14,14 +14,9 @@ Find it by clicking this icon on the top left:<br>
 
 If you have any question pleasse feel free to contact me. 
 
-<img src="images/Basir.JPG" style="width: 40%;">
-
-<div>
-
 **`Email: `** Basir.Navab@oracle.com
 
 **`Website: `** http://BasirNavab.com/
 
 **`linkedIn: `** https://www.linkedin.com/in/basir-navab-2ba360130/
-</div>
 
