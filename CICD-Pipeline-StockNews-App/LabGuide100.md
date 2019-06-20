@@ -186,10 +186,3 @@ The next step is to create a new application on wercker. Head over to **`https:/
 
 Congratulations! You’ve built your first app using Wercker.
 
-If you have any question pleasse feel free to contact me. 
-
-**`Email: `** Basir.Navab@oracle.com
-
-**`Website: `** http://BasirNavab.com/
-
-**`linkedIn: `** https://www.linkedin.com/in/basir-navab-2ba360130/
