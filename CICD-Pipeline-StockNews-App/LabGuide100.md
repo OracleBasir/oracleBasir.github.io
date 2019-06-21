@@ -16,7 +16,7 @@ While this guide uses Javascript, the general concepts explained in this tutoria
 - A Wercker account
 - The Wercker CLI
 - Basic knowledge of Git
-- Git install on your machine
+- Install Git on your machine
 
 
 # Setting up the app
