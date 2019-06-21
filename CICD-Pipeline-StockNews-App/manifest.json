@@ -15,7 +15,7 @@
             {
                 "number": "100",
                 "filename": "LabGuide100.md",
-                "title": "Getting started with Wercker and Javascript",
+                "title": "Lab 100: Getting started with Wercker and Javascript",
                 "description": "This Lab walk you step by step through creating a CI/CD pipeline using Wercker"
 
             }
