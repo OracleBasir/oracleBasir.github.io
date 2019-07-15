@@ -1,0 +1,25 @@
+{
+    "workshop": {
+        "title": "CI/CD pipeline using Wercker",
+        "description": "CI/CD pipeline using Wercker",
+        "theme": "default",
+        "interactive":"https://launch.oracle.com/?",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "Intro-Instructor-Led.md",
+                "title": "Intro - Instructor Led",
+                "description": "Step-by-step workshop instructions"
+
+            },
+            {
+                "number": "100",
+                "filename": "LabGuide100.md",
+                "title": "Lab 100: Getting started with Wercker and Javascript",
+                "description": "This Lab walk you step by step through creating a CI/CD pipeline using Wercker"
+
+            }
+
+        ]
+    }
+}
