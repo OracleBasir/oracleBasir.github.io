@@ -1,7 +1,7 @@
 {
     "workshop": {
-        "title": "CI/CD pipeline using Wercker",
-        "description": "CI/CD pipeline using Wercker",
+        "title": "Oracle Function, serverless Workshop",
+        "description": "Oracle Function, serverless Workshop",
         "theme": "default",
         "interactive":"https://launch.oracle.com/?",
         "labs": [
@@ -15,8 +15,8 @@
             {
                 "number": "100",
                 "filename": "LabGuide100.md",
-                "title": "Lab 100: Getting started with Wercker and Javascript",
-                "description": "This Lab walk you step by step through creating a CI/CD pipeline using Wercker"
+                "title": "Lab 100: Getting started with Oracle Function, serverless",
+                "description": "will walk you step by step through creating a your very first Oracle Function and deploy a sample application to it."
 
             }
 
